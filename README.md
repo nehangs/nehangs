@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Everyone I'm Nehang Shah.<br>I am a Diploma CSE student . Currently I am studying in ITM (sls) Baroda University. <br>I am a passionate Full stack Android and Web Developer .<br>I love coding and developing new things .<br>I build Android apps and help people to reach out their goals through my apps.<br>Also I push myself by learning new things and taking up challenges. <br>
+Hi, Everyone I'm Nehang Shah.<br>I am a Diploma CSE student . Currently I am studying in ITM (SLS) Baroda University. <br>I am a passionate Full stack Android and Web Developer .<br>I love coding and developing new things .<br>I build Android apps and help people to reach out their goals through my apps.<br>Also I push myself by learning new things and taking up challenges. <br>
 
 
 ## 🌐 Socials:
